@@ -1,0 +1,19 @@
+title: <p align="center"> Paras Paul </p>
+logo: /assets/img/garbage-2.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/paulparas">LinkedIn</a> |
+  <a href="https://github.com/paulparas">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, ELK Stack, Machine learning & Generative AI.
+  Worked with Cognizant in lifescience domain.
+  Working with Nagarro in BFSI domain for 5 years.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
